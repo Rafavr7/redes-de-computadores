@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="licitador:jar" />
+      <artifact name="regulador:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="659cd379-a5c0-4d41-be51-caee6ebdf291" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/licitador/Licitador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/licitador/Licitador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servidor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servidor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servidor/Serializador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servidor/Serializador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servidor/Serializador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servidor/Serializador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servidor/Servidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servidor/Servidor.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/licitador/Licitador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#1069#1070#0" expanded="true" />
+                <element signature="e#1107#1108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cliente/PedidoLeilao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cliente/Pedido.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leilao/Leilao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1323#1324#0" expanded="true" />
+                <element signature="e#1359#1360#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cliente/PedidoLicitacao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/servidor/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cliente/Cliente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cliente/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/servidor/Proposta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/servidor/Credenciais.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+              <folding>
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#787#788#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>licitadores</find>
+      <find>criarUser</find>
+      <find>leiloes</find>
+      <find>chegou a</find>
+      <find>registos</find>
+      <find>atualizarLeiloes</find>
+      <find>clientes.put</find>
+      <find>getLicitadorByPort</find>
+      <find>deser</find>
+      <find>serialize</find>
+      <find>clientes</find>
+      <find>new Licitador</find>
+      <find>new Leilao</find>
+      <find>new pro</find>
+      <find>atualizarClientes</find>
+      <find>leilao.getVen</find>
+      <find>leilao.getA</find>
+      <find>getLicitadorBy</find>
+      <find>leilao.getVencedor</find>
+      <find>clientSocket</find>
+      <find>while</find>
+      <find>Login</find>
+      <find>ArrayList</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/servidor/SHA256.java" />
+        <option value="$PROJECT_DIR$/src/cliente/Credenciais.java" />
+        <option value="$PROJECT_DIR$/src/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/cliente/Main.java" />
+        <option value="$PROJECT_DIR$/src/cliente/Cliente.java" />
+        <option value="$PROJECT_DIR$/src/cliente/Serializador.java" />
+        <option value="$PROJECT_DIR$/src/cliente/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/servidor/Main.java" />
+        <option value="$PROJECT_DIR$/src/servidor/Servidor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/leilao/Data.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servidor/Proposta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servidor/Credenciais.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leilao/Leilao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cliente/PedidoLeilao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cliente/PedidoLicitacao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cliente/Pedido.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cliente/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cliente/Cliente.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servidor/Servidor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servidor/Serializador.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servidor/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/licitador/Licitador.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="993" />
+    <option name="y" value="27" />
+    <option name="width" value="927" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projeto_inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto_inicio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto_inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto_inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto_inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto_inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto_inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto_inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto_inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto_inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cliente" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto_inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto_inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leilao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto_inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto_inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="licitador" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto_inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto_inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="servidor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto_inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto_inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto_inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.servidor">
+    <configuration name="cliente" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cliente.Main" />
+      <module name="projeto_inicio" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 4447" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cliente2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cliente.Main" />
+      <module name="projeto_inicio" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 4447" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="servidor" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="servidor.Main" />
+      <module name="projeto_inicio" />
+      <option name="PROGRAM_PARAMETERS" value="4447" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.cliente" />
+      <item itemvalue="Application.cliente2" />
+      <item itemvalue="Application.servidor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.servidor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="659cd379-a5c0-4d41-be51-caee6ebdf291" name="Default Changelist" comment="" />
+      <created>1554921392974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554921392974</updated>
+      <workItem from="1554921394884" duration="3347000" />
+      <workItem from="1554927826822" duration="9304000" />
+      <workItem from="1554937220026" duration="1084000" />
+      <workItem from="1554978503949" duration="1217000" />
+      <workItem from="1555446499052" duration="6049000" />
+      <workItem from="1555618214435" duration="6944000" />
+      <workItem from="1555626428279" duration="596000" />
+      <workItem from="1555682625715" duration="5526000" />
+      <workItem from="1556010505158" duration="1717000" />
+      <workItem from="1556016700421" duration="283000" />
+      <workItem from="1556019403368" duration="2113000" />
+      <workItem from="1556036893921" duration="2785000" />
+      <workItem from="1556191385323" duration="883000" />
+      <workItem from="1556192736140" duration="1919000" />
+      <workItem from="1556199799631" duration="957000" />
+      <workItem from="1556222806308" duration="583000" />
+      <workItem from="1556722023403" duration="597000" />
+      <workItem from="1556726757642" duration="27000" />
+      <workItem from="1556747192475" duration="148000" />
+      <workItem from="1556747476150" duration="506000" />
+      <workItem from="1556781360682" duration="1335000" />
+      <workItem from="1556797841307" duration="2399000" />
+      <workItem from="1556804636880" duration="204000" />
+      <workItem from="1556804979705" duration="141000" />
+      <workItem from="1556805533119" duration="10000" />
+      <workItem from="1556964586040" duration="21551000" />
+      <workItem from="1556989225123" duration="337000" />
+      <workItem from="1557068955691" duration="1370000" />
+      <workItem from="1557074366690" duration="247000" />
+      <workItem from="1557074680901" duration="233000" />
+      <workItem from="1557074975651" duration="670000" />
+      <workItem from="1557092596198" duration="596000" />
+      <workItem from="1557093392878" duration="2032000" />
+      <workItem from="1557133496782" duration="3105000" />
+      <workItem from="1557165813349" duration="6972000" />
+      <workItem from="1557175789108" duration="1815000" />
+      <workItem from="1557180329904" duration="257000" />
+      <workItem from="1557212811851" duration="3776000" />
+      <workItem from="1557220906026" duration="5469000" />
+      <workItem from="1557230298952" duration="1196000" />
+      <workItem from="1557250818286" duration="3861000" />
+      <workItem from="1557264056926" duration="688000" />
+      <workItem from="1557305479527" duration="4090000" />
+      <workItem from="1557309664294" duration="358000" />
+      <workItem from="1557311180201" duration="988000" />
+      <workItem from="1557319947661" duration="649000" />
+      <workItem from="1557324502304" duration="351000" />
+      <workItem from="1557324954220" duration="27000" />
+      <workItem from="1557325111432" duration="2213000" />
+      <workItem from="1557499834151" duration="2534000" />
+      <workItem from="1557568503175" duration="635000" />
+      <workItem from="1557597228321" duration="4155000" />
+      <workItem from="1557743404803" duration="598000" />
+      <workItem from="1557929965609" duration="731000" />
+      <workItem from="1557937875599" duration="1633000" />
+      <workItem from="1557939524758" duration="8392000" />
+      <workItem from="1558014609637" duration="14602000" />
+      <workItem from="1558101734781" duration="17472000" />
+      <workItem from="1558124587026" duration="670000" />
+      <workItem from="1558127078704" duration="610000" />
+      <workItem from="1558192274140" duration="9259000" />
+      <workItem from="1558212552953" duration="7599000" />
+      <workItem from="1558221864304" duration="2299000" />
+      <workItem from="1558248317095" duration="2089000" />
+      <workItem from="1558340287050" duration="73000" />
+      <workItem from="1558344938494" duration="629000" />
+      <workItem from="1558348085220" duration="582000" />
+      <workItem from="1558355608396" duration="569000" />
+      <workItem from="1558436099264" duration="606000" />
+      <workItem from="1558437124642" duration="257000" />
+      <workItem from="1558442237781" duration="35000" />
+      <workItem from="1558949018844" duration="4475000" />
+      <workItem from="1558982308553" duration="654000" />
+      <workItem from="1558985037013" duration="96000" />
+      <workItem from="1559027505808" duration="619000" />
+      <workItem from="1559028404909" duration="852000" />
+      <workItem from="1559029910759" duration="94000" />
+      <workItem from="1559036559337" duration="1805000" />
+      <workItem from="1559212118438" duration="2648000" />
+      <workItem from="1559338752688" duration="1374000" />
+      <workItem from="1559340356942" duration="108000" />
+      <workItem from="1559389230225" duration="1121000" />
+      <workItem from="1559395068405" duration="592000" />
+      <workItem from="1559632326023" duration="627000" />
+      <workItem from="1559655693606" duration="777000" />
+      <workItem from="1559724968477" duration="1257000" />
+      <workItem from="1559733119488" duration="1774000" />
+      <workItem from="1559744484162" duration="5114000" />
+      <workItem from="1559769221985" duration="26000" />
+      <workItem from="1559804869518" duration="50000" />
+      <workItem from="1559904081440" duration="2179000" />
+      <workItem from="1560609437764" duration="8522000" />
+      <workItem from="1560775677966" duration="376000" />
+      <workItem from="1560776410022" duration="6149000" />
+      <workItem from="1560855447264" duration="6534000" />
+      <workItem from="1560955690984" duration="3767000" />
+      <workItem from="1561064824683" duration="150000" />
+      <workItem from="1561065004758" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="252655000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24501109" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32824427" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32497275" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32824427" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28666297" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32829374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.325054" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32829374" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Cliente.java" />
+    <entry file="file://$PROJECT_DIR$/src/Servidor.java" />
+    <entry file="file://$PROJECT_DIR$/src/cliente/Credenciais.java" />
+    <entry file="file://$PROJECT_DIR$/src/Pessoa.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cliente/Serializador.java" />
+    <entry file="file://$PROJECT_DIR$/licitadores" />
+    <entry file="file://$PROJECT_DIR$/licitadores.txt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cliente/Pessoa.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leilao/Data.java" />
+    <entry file="file://$PROJECT_DIR$/Registos.txt" />
+    <entry file="file://$PROJECT_DIR$/Registos_teste" />
+    <entry file="file://$PROJECT_DIR$/Registos" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/ObjectOutputStream.java" />
+    <entry file="file://$PROJECT_DIR$/Leiloes" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="942" column="18" selection-start-line="942" selection-start-column="18" selection-end-line="942" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servidor/SHA256.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servidor/Servidor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1519">
+          <caret line="126" column="38" selection-start-line="126" selection-start-column="24" selection-end-line="126" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servidor/Serializador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servidor/Proposta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servidor/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servidor/Credenciais.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/licitador/Licitador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leilao/Leilao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#1359#1360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cliente/PedidoLicitacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cliente/PedidoLeilao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cliente/Pedido.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cliente/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cliente/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>licitador:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-codec:commons-codec:1.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
